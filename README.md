@@ -15,7 +15,7 @@ You are developing an application that helps users manage and control various el
 
 • PowerOutlet - Represents a standard power outlet with a common interface for plugging in devices. It defines the plugIn() method as the target method.
 
-</bold></h3>Adapter Objects:</bold></h3>
+<h3><bold>Adapter Objects:</bold></h3>
 
 • LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. It adapts the Laptop to the PowerOutlet interface, translating plugIn() to charge().
 
