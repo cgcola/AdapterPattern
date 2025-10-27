@@ -1,4 +1,5 @@
 package adapterPattern;
 
-public class PowerOutlet {
+public interface PowerOutlet {
+    String plugIn();
 }
